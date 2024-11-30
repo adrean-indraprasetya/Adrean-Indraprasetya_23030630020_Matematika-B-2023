@@ -13,4 +13,4 @@
 4. PDF Tugas EMT dan PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf
 [PDF](https://github.com/adrean-indraprasetya/Adrean-Indraprasetya_23030630020_Matematika-B-2023/blob/0f4ebc75116e6591e5e1093fe3a54904ad824351/emt_neww.pdf)
 
-Jika Anda Tertarik Mencoba, Anda Dapat Menggunakan file [https://github.com/adrean-indraprasetya/Adrean-Indraprasetya_23030630020_Matematika-B-2023/blob/572145c84402f0baa8aa3196fee4ed1f391bd7bd/emt.tex] Kemudian Import ke [Overleaf](https://www.overleaf.com/) .Selamat Mencoba!!!
+Jika Anda Tertarik Mencoba, Anda Dapat Menggunakan file https://github.com/adrean-indraprasetya/Adrean-Indraprasetya_23030630020_Matematika-B-2023/blob/572145c84402f0baa8aa3196fee4ed1f391bd7bd/emt.tex Kemudian Import ke [Overleaf](https://www.overleaf.com/) .Selamat Mencoba!!!
