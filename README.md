@@ -5,7 +5,7 @@
 [File Tugas EMT](https://github.com/adrean-indraprasetya/Adrean-Indraprasetya_23030630020_Matematika-B-2023/blob/f6740a3d771fd545534d9e281150847718cfd42b/emt.en)
 
 2. File Tugas EMT format LaTeX
-[File Tugas EMT format LaTeX](https://github.com/aliciasalsabilla1705/Alicia_23030630073_Matematika-E/blob/89f4ec31039a442dd18c91a2ead5687523473fd7/23030630073%20Alicia%20Salsabilla%20emt%201-6.tex)
+[File Tugas EMT format LaTeX](https://github.com/adrean-indraprasetya/Adrean-Indraprasetya_23030630020_Matematika-B-2023/blob/484d5557789220cfed285e71b60dc14af5ede7af/emt.tex)
 
 3. File Tugas EMT format Markdown
 [File Tugas EMT format Markdown](https://github.com/aliciasalsabilla1705/Alicia_23030630073_Matematika-E/blob/dfb9d9e5f10e2993b9d6e0a0575cde56882ecba1/23030630073%20Alicia%20Salsabilla%20emt%201-6.md)
